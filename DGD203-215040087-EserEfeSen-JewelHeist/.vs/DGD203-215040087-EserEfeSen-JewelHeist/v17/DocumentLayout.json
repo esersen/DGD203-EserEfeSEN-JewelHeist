@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\vanscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:vanscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\policechasescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:policechasescenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\heistscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:heistscenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|c:\\users\\eserpc\\desktop\\dgd203-github\\dgd203-eserefesen-jewelheist\\dgd203-215040087-eserefesen-jewelheist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60320970-0F2E-4B8F-BAE5-E55C13C7547D}|DGD203-215040087-EserEfeSen-JewelHeist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,20 +46,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoliceChaseScenario.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\PoliceChaseScenario.cs",
+              "RelativeDocumentMoniker": "PoliceChaseScenario.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\PoliceChaseScenario.cs",
+              "RelativeToolTip": "PoliceChaseScenario.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:08:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VanScenario.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\VanScenario.cs",
+              "RelativeDocumentMoniker": "VanScenario.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\VanScenario.cs",
+              "RelativeToolTip": "VanScenario.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:01:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeistScenario.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\HeistScenario.cs",
+              "RelativeDocumentMoniker": "HeistScenario.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\HeistScenario.cs",
+              "RelativeToolTip": "HeistScenario.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswJ4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:28:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:11:57.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:11:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Location.cs",
+              "RelativeDocumentMoniker": "Location.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Location.cs",
+              "RelativeToolTip": "Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:11:25.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:11:05.612Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:10:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSEN-JewelHeist\\DGD203-215040087-EserEfeSen-JewelHeist\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:03:22.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T17:03:22.171Z"
             }
           ]
         }

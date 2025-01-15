@@ -12,3 +12,4 @@ C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-JewelHeist\DGD203-215040
 C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-JewelHeist\DGD203-215040087-EserEfeSen-JewelHeist\obj\Debug\net8.0\DGD203-215040087-EserEfeSen-JewelHeist.pdb
 C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-JewelHeist\DGD203-215040087-EserEfeSen-JewelHeist\obj\Debug\net8.0\DGD203-215040087-EserEfeSen-JewelHeist.genruntimeconfig.cache
 C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-JewelHeist\DGD203-215040087-EserEfeSen-JewelHeist\obj\Debug\net8.0\ref\DGD203-215040087-EserEfeSen-JewelHeist.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSEN-JewelHeist\DGD203-215040087-EserEfeSen-JewelHeist\obj\Debug\net8.0\DGD203-215040087-EserEfeSen-JewelHeist.sourcelink.json

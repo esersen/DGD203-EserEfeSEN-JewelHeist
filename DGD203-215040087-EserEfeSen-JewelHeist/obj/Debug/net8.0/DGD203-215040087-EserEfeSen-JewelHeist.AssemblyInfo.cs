@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGD203-215040087-EserEfeSen-JewelHeist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa67d9fde8364ad47b131fe4c90ad4bbd051076")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGD203-215040087-EserEfeSen-JewelHeist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGD203-215040087-EserEfeSen-JewelHeist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
